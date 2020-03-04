@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{10:function(e,n,t){},3:function(e,n,t){e.exports=t(4)},4:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),c=t(2),o=t.n(c);t(10);o.a.render(r.a.createElement(function(){return r.a.createElement("div",{className:"App"},r.a.createElement("div",{className:"info"},r.a.createElement("img",{className:"portrait",src:"/zach_wilard_profile.jpeg"})))},null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.d8b7b2be.chunk.js.map
