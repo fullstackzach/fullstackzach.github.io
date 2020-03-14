@@ -11,17 +11,17 @@
     "deploy": "npx gh-pages --dist ./build --branch master"
   },
   "dependencies": {
-    "babel-preset-latest": "^6.16.0",
-    "babel-preset-react": "^6.16.0",
-    "babelify": "^7.3.0",
-    "browser-sync": "^2.18.8",
-    "browserify": "^13.3.0",
-    "watchify": "^3.9.0"
+    "babel-preset-latest": "6.24.1",
+    "babel-preset-react": "6.24.1",
+    "babelify": "7.3.0",
+    "browser-sync": "2.26.3",
+    "browserify": "13.3.0",
+    "watchify": "3.11.1"
   },
   "devDependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "^2.1.8"
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "2.1.8"
   },
   "browserslist": [
     ">0.2%",
