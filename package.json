@@ -16,7 +16,7 @@
     "babelify": "7.3.0",
     "browser-sync": "2.26.7",
     "browserify": "13.3.0",
-    "watchify": "3.11.1"
+    "watchify": "4.0.0"
   },
   "devDependencies": {
     "react": "16.8.6",
